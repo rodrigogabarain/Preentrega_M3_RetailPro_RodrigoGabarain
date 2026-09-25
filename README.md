@@ -36,3 +36,4 @@ Incluye la creación de una base de datos llamada **ventas_tech_db** con sus tab
 ## 👤 Autor
 **Rodrigo Gabarain**  
 Preentrega M3 - Coderhouse SQL
+Eliminación archivo README-Proyecto RetailPro.md
